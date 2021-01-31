@@ -1,0 +1,124 @@
+{
+    "defaults":
+    {
+        "colours":
+        {
+             "normal_bg": "red",
+             "normal_text": "white",
+             "normal_border": "blue",
+
+             "hovered_bg": "green",
+             "hovered_text": "black",
+             "hovered_border": "gold",
+
+             "disabled_bg": "black",
+             "disabled_text": "grey",
+             "disabled_border": "grey",
+
+             "selected_bg": "green",
+             "selected_text": "red",
+             "selected_border": "grey4",
+
+             "active_bg": "red",
+             "active_text": "white",
+             "active_border": "black",
+
+             "dark_bg": "pink"
+        }
+    },
+
+    "button":
+    {
+        "misc":
+        {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "10",
+            "border_width": "3"
+        },
+        
+        "font":
+        {
+            "name": "fira_code",
+            "size": "24"
+        }             
+    },
+
+    "#file_dialog.#close_button":
+    {
+        "misc":
+        {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "10",
+            "border_width": "3"
+        },
+        
+        "font":
+        {
+            "name": "fira_code",
+            "size": "24"
+        }             
+    },
+
+    "#file_dialog.#title_bar":
+    {
+        "misc":
+        {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "10",
+            "border_width": "3"
+        },
+        
+        "font":
+        {
+            "name": "fira_code",
+            "size": "24"
+        }             
+    },
+    
+    "#file_dialog.#file_path_text_line":
+    {
+        "colours":
+        {
+            "normal_border": "green",
+
+            "dark_bg": "orange"
+        },
+        
+        "misc":
+        {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "10",
+            "border_width": "3"
+        },
+        
+        "font":
+        {
+            "name": "fira_code",
+            "size": "24"
+        }  
+    },
+    
+    "#file_dialog.#file_display_list":
+    {
+        "colours":
+        {
+            "dark_bg": "yellow"
+        },
+        
+        "misc":
+        {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "10",
+            "border_width": "3"
+        }  
+    },
+    
+    "#file_dialog.#file_display_list.#file_list_item":
+    {
+        "colours":
+        {
+            "normal_bg": "blue"
+        }  
+    }
+}   
+
