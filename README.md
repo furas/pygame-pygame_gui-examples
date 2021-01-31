@@ -26,7 +26,7 @@ PyGame:
 
 - [PyGame.org](https://www.pygame.org/news)
 - PyGame.org: [tag `gui`](https://www.pygame.org/tags/gui)
-- PyGame.org: [PygameGUI](https://www.pygame.org/project/4381
+- PyGame.org: [PygameGUI](https://www.pygame.org/project/4381)
 - PyGame.org: [OcempGUI](https://www.pygame.org/project/125)
 - PyGame.org: [PGU - Phil's pyGame Utilities](https://www.pygame.org/project/108)
 - PyGame.org: [SGC](https://www.pygame.org/project/2089)
