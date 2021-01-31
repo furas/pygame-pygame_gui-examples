@@ -6,4 +6,7 @@ It started as answer for question on Stackoverflow:
 
 ---
 
+## FileDialog
+
+![filedialog](https://raw.githubusercontent.com/furas/pygame-pygame_gui-examples/main/screenshots/UIFileDialog-3.png)
 
